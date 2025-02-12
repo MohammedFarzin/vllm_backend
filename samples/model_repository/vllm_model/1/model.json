@@ -1,6 +1,6 @@
 {
-    "model":"facebook/opt-125m",
+    "model":"meta-llama/Llama-3.1-8B-Instruct",
     "disable_log_requests": true,
-    "gpu_memory_utilization": 0.5,
+    "gpu_memory_utilization": 0.94,
     "enforce_eager": true
 }
